@@ -1,2 +1,5 @@
 # Self_Transfer_Learning  
-in process...
+
+Self Transfer Learning  
+Paper : https://arxiv.org/abs/1602.01625
+
